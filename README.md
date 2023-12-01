@@ -31,4 +31,4 @@ QRCode Challange by Frontendmentor using HTML and CSS
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@zwei9lake](https://www.frontendmentor.io/profile/zwei9lake)
