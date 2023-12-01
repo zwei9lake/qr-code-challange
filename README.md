@@ -20,8 +20,8 @@ QRCode Challange by Frontendmentor using HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcode-challange-using-html-and-css-9M-zMniQwW)
+- Live Site URL: [Add live site URL here](https://zwei9lake.github.io/qr-code-challange/)
 
 ### Built with
 
